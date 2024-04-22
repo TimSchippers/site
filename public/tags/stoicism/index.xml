@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stoicism on Tim Schippers</title>
-    <link>http://localhost:1313/tags/stoicism/</link>
+    <link>http://timschippers.com/tags/stoicism/</link>
     <description>Recent content in Stoicism on Tim Schippers</description>
     <generator>Hugo 0.125.2</generator>
     <language>en-gb</language>
     <managingEditor>tim_schippers@icloud.com (Tim Schippers)</managingEditor>
     <webMaster>tim_schippers@icloud.com (Tim Schippers)</webMaster>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stoicism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://timschippers.com/tags/stoicism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I ?!</title>
-      <link>http://localhost:1313/post/2020/jan/who-am-i/</link>
+      <link>http://timschippers.com/post/2020/jan/who-am-i/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><author>tim_schippers@icloud.com (Tim Schippers)</author>
-      <guid>http://localhost:1313/post/2020/jan/who-am-i/</guid>
+      <guid>http://timschippers.com/post/2020/jan/who-am-i/</guid>
       <description>Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.&#xA;As a child, the answer to this question was simple.</description>
     </item>
   </channel>
